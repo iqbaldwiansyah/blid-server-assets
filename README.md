@@ -57,15 +57,5 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center">Developer</td>
             <td align="center">Managing infrastructure</td>
         </tr>
-        <tr>
-            <td align="center"><img src="https://discordav.deno.dev/494890873738231808" width="50" height="50" /><br /><sub>Vee</sub></td>
-            <td align="center">Modder</td>
-            <td align="center">3D Modeler</td>
-        </tr>
-        <tr>
-            <td align="center"><img src="https://discordav.deno.dev/761478857186344970" width="50" height="50" /><br /><sub>Initial R</sub></td>
-            <td align="center">Modder</td>
-            <td align="center">Police Editor</td>
-        </tr>
     </tbody>
 </table>

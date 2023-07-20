@@ -1,10 +1,20 @@
 {
-  "built_at": "2023-07-09T08:19:13.2554232+07:00",
+  "built_at": "2023-07-20T08:46:06.0004266+07:00",
   "entries": [
     {
       "Name": "balapliarid.mods",
-      "Checksum": "53dc25a3bc9ed95e2a1d29473104baff4b9f898c",
-      "Size": 35942505
+      "Checksum": "9fa235c7443cd1de013df95bc716448f915bfb40",
+      "Size": 56789210
+    },
+    {
+      "Name": "avablid.mods",
+      "Checksum": "2aab9bd2c6d91876f4625e1ddd1df9348faad2d1",
+      "Size": 264470
+    },
+    {
+      "Name": "bannerblid.mods",
+      "Checksum": "2903af504c58e4fa340a089505fe8e15cfe2f3ab",
+      "Size": 614916
     }
   ]
 }

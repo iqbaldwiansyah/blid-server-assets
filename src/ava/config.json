@@ -1,0 +1,11 @@
+{
+    "encrypt_files": false,
+    "entries": [
+        {
+            "type": "directory",
+            "local_path": "GLOBAL",
+            "game_path": "GLOBAL"
+        }
+    ],
+    "auto_split_mode": "none"
+}

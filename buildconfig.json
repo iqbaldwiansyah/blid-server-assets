@@ -3,6 +3,14 @@
         {
             "source_name": "assets",
             "distribution_name": "balapliarid"
+        },
+        {
+            "source_name": "ava",
+            "distribution_name": "avablid"
+        },
+        {
+            "source_name": "banner",
+            "distribution_name": "bannerblid"
         }
     ],
     "generate_index": true
