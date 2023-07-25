@@ -59,8 +59,8 @@ Here are the lists of our wonderful modders that are contributing to the communi
         </tr>
         <tr>
             <td align="center"><img src="https://cdn.discordapp.com/avatars/244343879476707329/78dd64202ff2431f3fd4f9bcca8c5b42.png" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
-            <td align="center">GM</td>
-            <td align="center">Edit Content</td>
+            <td align="center">Game Master</td>
+            <td align="center">Editor Content</td>
         </tr>
         <tr>
             <td align="center"><img src="https://cdn.discordapp.com/avatars/494890873738231808/e9de4cf4cd58171bb2c688cbf595a2f7.png" width="50" height="50" /><br /><sub>Vee</sub></td>
