@@ -48,7 +48,7 @@ Here are the lists of our wonderful modders that are contributing to the communi
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://cdn.discordapp.com/avatars/295511574263889921/a_003aeee6ee68800cda235f6e2c8e8e7c.gif?size=4096" width="50" height="50" /><br /><sub>Miku Racing</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/295511574263889921/a_003aeee6ee68800cda235f6e2c8e8e7c.gif" width="50" height="50" /><br /><sub>Miku Racing</sub></td>
             <td align="center">Project Owner</td>
             <td align="center">-</td>
         </tr>
