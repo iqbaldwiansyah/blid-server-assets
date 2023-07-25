@@ -53,27 +53,27 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center">-</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/210098396113928192" width="50" height="50" /><br /><sub>Plyrs</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/210098396113928192/a_d6c36cec65df10f2a4d059c42958e966.gif" width="50" height="50" /><br /><sub>Plyrs</sub></td>
             <td align="center">Developer</td>
             <td align="center">Managing infrastructure</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/210098396113928192" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/244343879476707329/78dd64202ff2431f3fd4f9bcca8c5b42.png" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
             <td align="center">GM</td>
             <td align="center">Edit Content</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/494890873738231808" width="50" height="50" /><br /><sub>Vee</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/494890873738231808/e9de4cf4cd58171bb2c688cbf595a2f7.png" width="50" height="50" /><br /><sub>Vee</sub></td>
             <td align="center">Modder</td>
             <td align="center">3D Model</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/761478857186344970" width="50" height="50" /><br /><sub>Initial R</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/761478857186344970/bf78350c41a281a0a90bf5f1c4ca8eb1.png" width="50" height="50" /><br /><sub>Initial R</sub></td>
             <td align="center">Modder</td>
             <td align="center">Police Vinyl</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/311837422109589505" width="50" height="50" /><br /><sub>Aditblue</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/311837422109589505/388f5757962eabbc609a46d91a0aafde.png" width="50" height="50" /><br /><sub>Aditblue</sub></td>
             <td align="center">Modder</td>
             <td align="center">Banner Design</td>
         </tr>
