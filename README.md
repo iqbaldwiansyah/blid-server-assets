@@ -48,7 +48,7 @@ Here are the lists of our wonderful modders that are contributing to the communi
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://discordav.deno.dev/295511574263889921" width="50" height="50" /><br /><sub>Miku Racing</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/295511574263889921/a_003aeee6ee68800cda235f6e2c8e8e7c.gif" width="50" height="50" /><br /><sub>Miku Racing</sub></td>
             <td align="center">Project Owner</td>
             <td align="center">-</td>
         </tr>
@@ -56,6 +56,26 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center"><img src="https://discordav.deno.dev/210098396113928192" width="50" height="50" /><br /><sub>Plyrs</sub></td>
             <td align="center">Developer</td>
             <td align="center">Managing infrastructure</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://discordav.deno.dev/210098396113928192" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
+            <td align="center">GM</td>
+            <td align="center">Edit Content</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://discordav.deno.dev/494890873738231808" width="50" height="50" /><br /><sub>Vee</sub></td>
+            <td align="center">Modder</td>
+            <td align="center">3D Model</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://discordav.deno.dev/761478857186344970" width="50" height="50" /><br /><sub>Initial R</sub></td>
+            <td align="center">Modder</td>
+            <td align="center">Police Vinyl</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://discordav.deno.dev/311837422109589505" width="50" height="50" /><br /><sub>Aditblue</sub></td>
+            <td align="center">Modder</td>
+            <td align="center">Banner Design</td>
         </tr>
     </tbody>
 </table>
