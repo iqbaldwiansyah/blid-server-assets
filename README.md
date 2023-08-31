@@ -63,6 +63,16 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center">Editor Content</td>
         </tr>
         <tr>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/363928528174972929/112f380d1fc5cc66b8315c50c1edbe9d.png" width="50" height="50" /><br /><sub>BERTUS</sub></td>
+            <td align="center">Team BL-ID</td>
+            <td align="center">Helper</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/390473596843065345/a_e386bce7c3837d7d501ffa4f3059453f.png" width="50" height="50" /><br /><sub>Kucing</sub></td>
+            <td align="center">Team BL-ID</td>
+            <td align="center">Helper</td>
+        </tr>
+        <tr>
             <td align="center"><img src="https://cdn.discordapp.com/avatars/494890873738231808/ce51c507157dcd2244947facb8239fec.png" width="50" height="50" /><br /><sub>Vee</sub></td>
             <td align="center">Modder</td>
             <td align="center">3D Model</td>
