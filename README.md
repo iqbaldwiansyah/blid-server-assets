@@ -58,17 +58,17 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center">Managing infrastructure</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://cdn.discordapp.com/avatars/244343879476707329/78dd64202ff2431f3fd4f9bcca8c5b42.png" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/244343879476707329/6af98f88f3d9372417f62c484863c12d.png" width="50" height="50" /><br /><sub>Fadeli Surya</sub></td>
             <td align="center">Game Master</td>
             <td align="center">Editor Content</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://cdn.discordapp.com/avatars/494890873738231808/e9de4cf4cd58171bb2c688cbf595a2f7.png" width="50" height="50" /><br /><sub>Vee</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/494890873738231808/ce51c507157dcd2244947facb8239fec.png" width="50" height="50" /><br /><sub>Vee</sub></td>
             <td align="center">Modder</td>
             <td align="center">3D Model</td>
         </tr>
         <tr>
-            <td align="center"><img src="https://cdn.discordapp.com/avatars/761478857186344970/bf78350c41a281a0a90bf5f1c4ca8eb1.png" width="50" height="50" /><br /><sub>Initial R</sub></td>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/761478857186344970/d6fd936eb326e6e480581f871a0997b5.png" width="50" height="50" /><br /><sub>Initial R</sub></td>
             <td align="center">Modder</td>
             <td align="center">Police Vinyl</td>
         </tr>
@@ -76,6 +76,16 @@ Here are the lists of our wonderful modders that are contributing to the communi
             <td align="center"><img src="https://cdn.discordapp.com/avatars/311837422109589505/388f5757962eabbc609a46d91a0aafde.png" width="50" height="50" /><br /><sub>Aditblue</sub></td>
             <td align="center">Modder</td>
             <td align="center">Banner Design</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/391989140347944960/1b389a734a4d9b770a5712c71c2206dc.png" width="50" height="50" /><br /><sub>AROGAN</sub></td>
+            <td align="center">Modder</td>
+            <td align="center">Tuner</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://cdn.discordapp.com/avatars/694097958034997269/330c765db782a923d83f6b492fcc088f.png" width="50" height="50" /><br /><sub>Kudungga</sub></td>
+            <td align="center">Modder</td>
+            <td align="center">3D Model & Tuner</td>
         </tr>
     </tbody>
 </table>
